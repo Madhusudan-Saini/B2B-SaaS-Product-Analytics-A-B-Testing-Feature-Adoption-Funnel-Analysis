@@ -1,0 +1,11 @@
+user_id,country,industry,company_size,variant
+1,US,SaaS,SMB,Control
+2,India,FinTech,Mid,AI_Checkout
+3,UK,E-commerce,SMB,Control
+4,Germany,SaaS,Enterprise,AI_Checkout
+5,Canada,Healthcare,Mid,AI_Checkout
+6,US,SaaS,SMB,Control
+7,India,E-commerce,SMB,AI_Checkout
+8,UK,FinTech,Mid,Control
+9,Germany,SaaS,Enterprise,AI_Checkout
+10,Canada,SaaS,SMB,Control
